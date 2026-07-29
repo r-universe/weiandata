@@ -5,3 +5,6 @@
 [submodule "IRTC"]
 	path = IRTC
 	url = https://github.com/weiandata/irtc
+[submodule "LISTC"]
+	path = LISTC
+	url = https://github.com/weiandata/listc
