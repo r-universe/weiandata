@@ -8,3 +8,6 @@
 [submodule "LISTC"]
 	path = LISTC
 	url = https://github.com/weiandata/listc
+[submodule "WFC"]
+	path = WFC
+	url = https://github.com/weiandata/wfc
